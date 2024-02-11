@@ -1,0 +1,7 @@
+.idea
+public
+resources
+
+*.lock
+*.iml
+.DS_Store
